@@ -1,0 +1,23 @@
+print(" hello, user")
+name = input(" what's your name? ")
+name = name.strip()
+name = name.title()
+print(" hello,", name)
+
+print(" it's really nice to see you, i am satakshi's practice project" )
+print(" let's get to know each other a little more?")
+input(" would you like to get familiar? ")
+print(" i don't care what your answer is (satakshi made me), let's talk")
+print(" i am 2 days old ")
+x = input(" what's your age?")
+z = int(x) - 19 
+print(" damn, so you are ",z , "years older than her!")
+print(" eww i don't care")
+print(" satakshi is out of idea soooooo bye bye... no no wait!")
+print(" i can do calculations! let's do addition!!")
+y = input(" choose one number")
+l = input(" choose another number")
+p = int(y) + int(l)
+print(" so the answer is ", p)
+print(" though i can do more intense calculations but satakshi is tired of writing code... sooo bye bye")
+
