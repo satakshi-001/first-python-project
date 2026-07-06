@@ -1,2 +1,1 @@
-README
-update README
+first python project
